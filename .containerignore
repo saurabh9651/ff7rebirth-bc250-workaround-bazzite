@@ -1,0 +1,15 @@
+.directmesh
+.git
+.agents
+.aws
+.codex
+steam-launch-option.txt
+community
+__pycache__
+local-notes
+github-repo
+publication
+.publication-*
+local-tools
+github-upload-source.zip
+github-upload-source.zip.sha256
