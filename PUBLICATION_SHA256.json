@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-06T21:50:54.663064+00:00",
+  "files": {
+    ".containerignore": "b30ea2904058a8a88505f052183f2501727c0f2215b42de4d1536b8cdc16d14f",
+    ".gitignore": "9c32010c93b2bc205dfae7ce8e22e888f46b0de6a00cd2995c19812f87d6baea",
+    "COMMUNITY_GUIDE.md": "fd86d1902e5c028fe3507649aafbac058ef472d88e5ff4b034ba9740329c3a1f",
+    "CREDITS.md": "cdad510ce7ab5464bbe373254c2cf2fc54df4423850ede6316b32513517ef9bb",
+    "Containerfile": "8f1ae38962351a3c94bc6ec0982bc1905bb878b45a5571e2cd4c3a5a053cf941",
+    "NOTICE.md": "9d95c1af340e14bdbf9c3a89d6950bdad20dbdb7ca3484bbc96b261e4b158038",
+    "README.md": "ee84176cf0c100d382010b45d3673dffd7740848bcefb6aa2fedea2312107197",
+    "SECURITY.md": "e468018df3b4bf50edebfd1b46facf0808be631812142bf86f4cbb3f82ca0327",
+    "check-driver.sh": "da8296b2120580ad51876564c8f908a1da7cc21e9b459a934224c85a85868dc0",
+    "container-build.sh": "510700d351180710f9148193f16ee3d47a1b5bb170db4d26fe1830dc1d46ad80",
+    "diagnostics.py": "349bf88a20f9da019220855d6ca4ea5130e3b1bb9386c978cb076a5efe2d2968",
+    "docs/PUBLISHING.md": "b866960db22c79a7fb27e1972d40dd0af872b9234fc3752009900a572350a0ff",
+    "docs/decisions/0001-isolated-driver.md": "313c9fc9cc4ff23e4eb49617b9c919869b624451e403e281d3ed1ef9fb8961f1",
+    "docs/decisions/0002-matching-runtime.md": "1016cf7cc27dbca1810d31d31c9f57e32a35a8c983e28302212c80ef8b3b5573",
+    "docs/decisions/0003-diagnostics-privacy.md": "e5e7327308c87209a88d757eaa14e0a0cd5a14d2969d864ab1192b4a8e2936c7",
+    "docs/decisions/0004-publication-boundary.md": "f37193a118a0c30902cc8613f84b4cc247fe8b3b991e67a3d65c22ac8233da5d",
+    "launch-rebirth.sh": "5593720558e936835eb7eb1f13099a64f7e2914af957b40cf8340afaf7a2a497",
+    "runtime-libraries.py": "4959a4322ecc70c30954388419ece96c61982e0c68f6b59fca6813f502ad85fb",
+    "setup-driver.sh": "c38883883c601946d3424e2ce29f38e5e6c6cb07b30b5a9ae923a86976328ed6",
+    "test_diagnostics.py": "d9626d07af1fa2ed11161e9ff1830b4c9f5d64d6f0dac32433dbdb434cf145bb",
+    "tests/test_publication.py": "0a4c3b733b7781a759c77654c9b5d5f90c5c79311014b8bc0daf2cd682fd26f0",
+    "tools/audit_publication.py": "092754f9db39b13946fde83c038b2e805c6b94deb11cdcdf90e644cb4a1b3159"
+  }
+}
